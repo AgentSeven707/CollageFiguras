@@ -379,7 +379,7 @@ public class Collage {
 
                     for (int i = 0; i < trapecios.length; i++) {
                         if (trapecios[i].isIsVisible() == true) {
-                            trapecios[i].changeColor("purple");
+                            trapecios[i].changeColor("orange");
                         }
                     }
 
